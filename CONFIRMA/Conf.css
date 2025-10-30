@@ -1,0 +1,63 @@
+body{
+    overflow: hidden;
+    background-color: #FAE7C9;
+    font-size: 12px;
+    background-image: url(hoja-removebg-preview.png);
+}
+.box{
+    margin: auto;
+    margin-top: 0px;
+    background-color: #b0926acb;
+    backdrop-filter: blur(2px);
+    width: 310px;
+    height: auto;
+    box-sizing: border-box;
+    padding-top: .1px;
+    border: 8px solid #fae7a8c4;
+    box-shadow: 0 0 30px 3px rgba(0, 0, 0, 0.404);
+    border-radius: 15px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    padding-left: 35%;
+}
+h1{
+    font-size: 2.2em;
+    width: 250px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px 18px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: 3px solid white ;
+    margin-top: 20px;
+    padding-bottom: 20px;
+
+}
+h3{
+    color: white;
+    margin-left: 36%;
+}
+.cont{
+    margin-top: 29px;
+    padding-bottom: 20px;
+    width: 90%;
+}
+p{
+    color: white;
+    margin-top: 33px;
+    font-size: 1.4em;
+    border-bottom: 1px solid white;
+    width: 200px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+a{
+    background-color: #fae7c911;
+    color: #ffdfa7d0;
+    font-weight: bold;
+}
+.ten{
+    margin-left: 44px;
+}
